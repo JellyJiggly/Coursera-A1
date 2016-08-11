@@ -1,0 +1,61 @@
+body {
+	font-family: arial;
+}
+
+#div1
+{
+	background-color: red;
+	float: left;
+	width: 30%;
+	margin: 20px;
+	border: solid black 1px;	
+	height: 100px;	
+}
+
+#div1 > div
+{
+	background-color: blue;
+	position: relative;
+	left: 354px;
+	bottom: 1px;
+	width: 50px;
+	border: solid black 1px;
+}
+#div2
+{
+	background-color: red;
+	float: left;
+	width: 30%;
+	margin: 20px;
+	border: solid black 1px;	
+	height: 100px;	
+}
+
+#div2 > div
+{
+	background-color: blue;
+	position: relative;
+	left: 354px;
+	bottom: 1px;
+	width: 50px;
+	border: solid black 1px;
+}
+#div3
+{
+	background-color: red;
+	float: left;
+	width: 30%;
+	margin: 20px;
+	border: solid black 1px;	
+	height: 100px;	
+}
+
+#div3 > div
+{
+	background-color: blue;
+	position: relative;
+	left: 354px;
+	bottom: 1px;
+	width: 50px;
+	border: solid black 1px;
+}
